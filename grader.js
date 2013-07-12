@@ -85,3 +85,4 @@ if(require.main == module) {
     if(program.url) {
         checkUrlFile(program.url, program.checks);
     }
+}
